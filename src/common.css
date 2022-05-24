@@ -1,0 +1,27 @@
+.main {
+  background-color: yellow;
+  margin: 20px;
+  padding: 10px;
+}
+.sub {
+  background-color: aquamarine;
+  margin: 10px;
+  padding: 10px;
+  height: 200px;
+  width: 40%;
+  border: 2px solid black;
+}
+.container {
+  display: flex;
+}
+.heading {
+  text-align: center;
+  color: green;
+}
+label {
+  font-size: 24px;
+}
+span {
+  color: brown;
+  font-size: 24px;
+}

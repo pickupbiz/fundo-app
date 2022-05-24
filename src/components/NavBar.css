@@ -1,0 +1,11 @@
+.navbar {
+  background-color: aquamarine;
+  padding: 10px;
+  padding-bottom: 25px;
+}
+.navbar a {
+  margin: 10px;
+  padding: 5px;
+  font-size: 20px;
+  text-decoration: none;
+}
