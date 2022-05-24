@@ -45,7 +45,7 @@ span {
   font-weight: bold;
   color: brown;
   font-family: sans-serif;
-  margin-left: 20px;
+  margin-left: 3px;
 }
 p {
   font-size: 18px;
@@ -68,4 +68,5 @@ marquee {
   border: 2px solid black;
   width: 30%;
   text-align: center;
+  vertical-align: middle;
 }
